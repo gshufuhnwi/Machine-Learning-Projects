@@ -1,0 +1,251 @@
+
+
+Current Dataset ::: Vote dataset
+Accuracy of 0-1 loss for fold 0 ::: 0.8409090909090909
+CF for fold 0 ::: acc:: 0.8409090893595043 :: precision:: 0.8409090893595041 :: recall :: 0.8409090893595041
+Accuracy of 0-1 loss for fold 1 ::: 0.9090909090909091
+CF for fold 1 ::: acc:: 0.9090909072314051 :: precision:: 0.909090907231405 :: recall :: 0.909090907231405
+Accuracy of 0-1 loss for fold 2 ::: 0.9090909090909091
+CF for fold 2 ::: acc:: 0.9090909072314051 :: precision:: 0.909090907231405 :: recall :: 0.909090907231405
+Accuracy of 0-1 loss for fold 3 ::: 0.9090909090909091
+CF for fold 3 ::: acc:: 0.9090909072314051 :: precision:: 0.909090907231405 :: recall :: 0.909090907231405
+Accuracy of 0-1 loss for fold 4 ::: 0.8409090909090909
+CF for fold 4 ::: acc:: 0.8409090893595043 :: precision:: 0.8409090893595041 :: recall :: 0.8409090893595041
+Accuracy of 0-1 loss for fold 5 ::: 0.9534883720930233
+CF for fold 5 ::: acc:: 0.9534883699837752 :: precision:: 0.953488369983775 :: recall :: 0.953488369983775
+Accuracy of 0-1 loss for fold 6 ::: 0.9302325581395349
+CF for fold 6 ::: acc:: 0.9302325561384533 :: precision:: 0.9302325561384532 :: recall :: 0.9302325561384532
+Accuracy of 0-1 loss for fold 7 ::: 0.9302325581395349
+CF for fold 7 ::: acc:: 0.9302325561384533 :: precision:: 0.9302325561384532 :: recall :: 0.9302325561384532
+Accuracy of 0-1 loss for fold 8 ::: 0.8372093023255813
+CF for fold 8 ::: acc:: 0.8372093007571662 :: precision:: 0.837209300757166 :: recall :: 0.837209300757166
+Accuracy of 0-1 loss for fold 9 ::: 0.9302325581395349
+CF for fold 9 ::: acc:: 0.9302325561384533 :: precision:: 0.9302325561384532 :: recall :: 0.9302325561384532
+
+Current Dataset ::: Vote dataset with noise
+Accuracy of 0-1 loss for fold 0 ::: 0.8409090909090909
+CF for fold 0 ::: acc:: 0.8409090893595043 :: precision:: 0.8409090893595041 :: recall :: 0.8409090893595041
+Accuracy of 0-1 loss for fold 1 ::: 0.9318181818181819
+CF for fold 1 ::: acc:: 0.9318181798553721 :: precision:: 0.9318181798553719 :: recall :: 0.9318181798553719
+Accuracy of 0-1 loss for fold 2 ::: 0.8636363636363636
+CF for fold 2 ::: acc:: 0.8636363619834712 :: precision:: 0.863636361983471 :: recall :: 0.863636361983471
+Accuracy of 0-1 loss for fold 3 ::: 0.8636363636363636
+CF for fold 3 ::: acc:: 0.8636363619834712 :: precision:: 0.863636361983471 :: recall :: 0.863636361983471
+Accuracy of 0-1 loss for fold 4 ::: 0.9090909090909091
+CF for fold 4 ::: acc:: 0.9090909072314051 :: precision:: 0.909090907231405 :: recall :: 0.909090907231405
+Accuracy of 0-1 loss for fold 5 ::: 0.8837209302325582
+CF for fold 5 ::: acc:: 0.8837209284478098 :: precision:: 0.8837209284478096 :: recall :: 0.8837209284478096
+Accuracy of 0-1 loss for fold 6 ::: 0.9302325581395349
+CF for fold 6 ::: acc:: 0.9302325561384533 :: precision:: 0.9302325561384532 :: recall :: 0.9302325561384532
+Accuracy of 0-1 loss for fold 7 ::: 0.9069767441860466
+CF for fold 7 ::: acc:: 0.9069767422931315 :: precision:: 0.9069767422931314 :: recall :: 0.9069767422931314
+Accuracy of 0-1 loss for fold 8 ::: 0.9302325581395349
+CF for fold 8 ::: acc:: 0.9302325561384533 :: precision:: 0.9302325561384532 :: recall :: 0.9302325561384532
+Accuracy of 0-1 loss for fold 9 ::: 0.8837209302325582
+CF for fold 9 ::: acc:: 0.8837209284478098 :: precision:: 0.8837209284478096 :: recall :: 0.8837209284478096
+
+Current Dataset ::: Soybean dataset
+Accuracy of 0-1 loss for fold 0 ::: 0.8
+CF for fold 0 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 1 ::: 0.8
+CF for fold 1 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 2 ::: 0.8
+CF for fold 2 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 3 ::: 1.0
+CF for fold 3 ::: acc:: 0.9999999866666671 :: precision:: 0.9999999800000008 :: recall :: 0.9999999800000008
+Accuracy of 0-1 loss for fold 4 ::: 0.6
+CF for fold 4 ::: acc:: 0.5999999973333334 :: precision:: 0.5999999960000002 :: recall :: 0.42857143061224484
+Accuracy of 0-1 loss for fold 5 ::: 1.0
+CF for fold 5 ::: acc:: 0.9999999800000009 :: precision:: 0.9999999800000008 :: recall :: 0.9999999800000008
+Accuracy of 0-1 loss for fold 6 ::: 0.8
+CF for fold 6 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 7 ::: 0.75
+CF for fold 7 ::: acc:: 0.7499999875000006 :: precision:: 0.7499999875000006 :: recall :: 0.7499999875000006
+Accuracy of 0-1 loss for fold 8 ::: 1.0
+CF for fold 8 ::: acc:: 0.999999983333334 :: precision:: 0.9999999750000012 :: recall :: 0.9999999750000012
+Accuracy of 0-1 loss for fold 9 ::: 0.5
+CF for fold 9 ::: acc:: 0.5 :: precision:: 0.5 :: recall :: 0.3333333388888887
+
+Current Dataset ::: Soybean dataset with noise
+Accuracy of 0-1 loss for fold 0 ::: 1.0
+CF for fold 0 ::: acc:: 0.9999999866666671 :: precision:: 0.9999999800000008 :: recall :: 0.9999999800000008
+Accuracy of 0-1 loss for fold 1 ::: 0.8
+CF for fold 1 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 2 ::: 0.6
+CF for fold 2 ::: acc:: 0.5999999973333334 :: precision:: 0.5999999960000002 :: recall :: 0.42857143061224484
+Accuracy of 0-1 loss for fold 3 ::: 0.8
+CF for fold 3 ::: acc:: 0.7999999940000001 :: precision:: 0.7999999880000005 :: recall :: 0.5714285693877551
+Accuracy of 0-1 loss for fold 4 ::: 0.8
+CF for fold 4 ::: acc:: 0.7999999920000003 :: precision:: 0.7999999880000005 :: recall :: 0.6666666611111113
+Accuracy of 0-1 loss for fold 5 ::: 0.6
+CF for fold 5 ::: acc:: 0.5999999973333334 :: precision:: 0.9999999666666689 :: recall :: 0.333333337037037
+Accuracy of 0-1 loss for fold 6 ::: 0.8
+CF for fold 6 ::: acc:: 0.7999999920000003 :: precision:: 0.7999999880000005 :: recall :: 0.6666666611111113
+Accuracy of 0-1 loss for fold 7 ::: 0.75
+CF for fold 7 ::: acc:: 0.749999991666667 :: precision:: 0.7499999875000006 :: recall :: 0.5999999960000002
+Accuracy of 0-1 loss for fold 8 ::: 1.0
+CF for fold 8 ::: acc:: 0.999999983333334 :: precision:: 0.9999999750000012 :: recall :: 0.9999999750000012
+Accuracy of 0-1 loss for fold 9 ::: 0.75
+CF for fold 9 ::: acc:: 0.749999991666667 :: precision:: 0.7499999875000006 :: recall :: 0.5999999960000002
+
+Current Dataset ::: Breast Cancer dataset
+Accuracy of 0-1 loss for fold 0 ::: 1.0
+CF for fold 0 ::: acc:: 0.9999999985714286 :: precision:: 0.9999999985714286 :: recall :: 0.9999999985714286
+Accuracy of 0-1 loss for fold 1 ::: 0.9714285714285714
+CF for fold 1 ::: acc:: 0.9714285700816327 :: precision:: 0.9714285700816327 :: recall :: 0.9714285700816327
+Accuracy of 0-1 loss for fold 2 ::: 0.9714285714285714
+CF for fold 2 ::: acc:: 0.9714285700816327 :: precision:: 0.9714285700816327 :: recall :: 0.9714285700816327
+Accuracy of 0-1 loss for fold 3 ::: 0.9428571428571428
+CF for fold 3 ::: acc:: 0.9428571415918369 :: precision:: 0.9428571415918369 :: recall :: 0.9428571415918369
+Accuracy of 0-1 loss for fold 4 ::: 0.9857142857142858
+CF for fold 4 ::: acc:: 0.9857142843265307 :: precision:: 0.9857142843265307 :: recall :: 0.9857142843265307
+Accuracy of 0-1 loss for fold 5 ::: 0.9428571428571428
+CF for fold 5 ::: acc:: 0.9428571415918369 :: precision:: 0.9428571415918369 :: recall :: 0.9428571415918369
+Accuracy of 0-1 loss for fold 6 ::: 0.9571428571428572
+CF for fold 6 ::: acc:: 0.9571428558367348 :: precision:: 0.9571428558367348 :: recall :: 0.9571428558367348
+Accuracy of 0-1 loss for fold 7 ::: 0.9714285714285714
+CF for fold 7 ::: acc:: 0.9714285700816327 :: precision:: 0.9714285700816327 :: recall :: 0.9714285700816327
+Accuracy of 0-1 loss for fold 8 ::: 0.9857142857142858
+CF for fold 8 ::: acc:: 0.9857142843265307 :: precision:: 0.9857142843265307 :: recall :: 0.9857142843265307
+Accuracy of 0-1 loss for fold 9 ::: 0.9855072463768116
+CF for fold 9 ::: acc:: 0.9855072449695443 :: precision:: 0.9855072449695443 :: recall :: 0.9855072449695443
+
+Current Dataset ::: Breast Cancer dataset with noise
+Accuracy of 0-1 loss for fold 0 ::: 0.9428571428571428
+CF for fold 0 ::: acc:: 0.9428571415918369 :: precision:: 0.9428571415918369 :: recall :: 0.9428571415918369
+Accuracy of 0-1 loss for fold 1 ::: 0.9857142857142858
+CF for fold 1 ::: acc:: 0.9857142843265307 :: precision:: 0.9857142843265307 :: recall :: 0.9857142843265307
+Accuracy of 0-1 loss for fold 2 ::: 0.9857142857142858
+CF for fold 2 ::: acc:: 0.9857142843265307 :: precision:: 0.9857142843265307 :: recall :: 0.9857142843265307
+Accuracy of 0-1 loss for fold 3 ::: 0.9714285714285714
+CF for fold 3 ::: acc:: 0.9714285700816327 :: precision:: 0.9714285700816327 :: recall :: 0.9714285700816327
+Accuracy of 0-1 loss for fold 4 ::: 0.9428571428571428
+CF for fold 4 ::: acc:: 0.9428571415918369 :: precision:: 0.9428571415918369 :: recall :: 0.9428571415918369
+Accuracy of 0-1 loss for fold 5 ::: 0.9571428571428572
+CF for fold 5 ::: acc:: 0.9571428558367348 :: precision:: 0.9571428558367348 :: recall :: 0.9571428558367348
+Accuracy of 0-1 loss for fold 6 ::: 0.9571428571428572
+CF for fold 6 ::: acc:: 0.9571428558367348 :: precision:: 0.9571428558367348 :: recall :: 0.9571428558367348
+Accuracy of 0-1 loss for fold 7 ::: 0.9857142857142858
+CF for fold 7 ::: acc:: 0.9857142843265307 :: precision:: 0.9857142843265307 :: recall :: 0.9857142843265307
+Accuracy of 0-1 loss for fold 8 ::: 0.9714285714285714
+CF for fold 8 ::: acc:: 0.9714285700816327 :: precision:: 0.9714285700816327 :: recall :: 0.9714285700816327
+Accuracy of 0-1 loss for fold 9 ::: 0.9855072463768116
+CF for fold 9 ::: acc:: 0.9855072449695443 :: precision:: 0.9855072449695443 :: recall :: 0.9855072449695443
+
+Current Dataset ::: Iris dataset
+Accuracy of 0-1 loss for fold 0 ::: 0.8666666666666667
+CF for fold 0 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 1 ::: 0.9333333333333333
+CF for fold 1 ::: acc:: 0.9333333294814815 :: precision:: 0.9333333275555556 :: recall :: 0.8749999953125001
+Accuracy of 0-1 loss for fold 2 ::: 0.8666666666666667
+CF for fold 2 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 3 ::: 0.9333333333333333
+CF for fold 3 ::: acc:: 0.9333333294814815 :: precision:: 0.9333333275555556 :: recall :: 0.8749999953125001
+Accuracy of 0-1 loss for fold 4 ::: 0.8666666666666667
+CF for fold 4 ::: acc:: 0.8666666617777777 :: precision:: 0.8666666617777777 :: recall :: 0.8666666617777777
+Accuracy of 0-1 loss for fold 5 ::: 1.0
+CF for fold 5 ::: acc:: 0.9999999955555555 :: precision:: 0.9999999933333334 :: recall :: 0.9999999933333334
+Accuracy of 0-1 loss for fold 6 ::: 1.0
+CF for fold 6 ::: acc:: 0.9999999955555555 :: precision:: 0.9999999933333334 :: recall :: 0.9999999933333334
+Accuracy of 0-1 loss for fold 7 ::: 1.0
+CF for fold 7 ::: acc:: 0.9999999955555555 :: precision:: 0.9999999933333334 :: recall :: 0.9999999933333334
+Accuracy of 0-1 loss for fold 8 ::: 0.9333333333333333
+CF for fold 8 ::: acc:: 0.9333333294814815 :: precision:: 0.9333333275555556 :: recall :: 0.8749999953125001
+Accuracy of 0-1 loss for fold 9 ::: 0.8666666666666667
+CF for fold 9 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+
+Current Dataset ::: Iris dataset with noise
+Accuracy of 0-1 loss for fold 0 ::: 0.8666666666666667
+CF for fold 0 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 1 ::: 0.9333333333333333
+CF for fold 1 ::: acc:: 0.9333333294814815 :: precision:: 0.9333333275555556 :: recall :: 0.8749999953125001
+Accuracy of 0-1 loss for fold 2 ::: 0.7333333333333334
+CF for fold 2 ::: acc:: 0.7333333312592593 :: precision:: 0.7333333302222222 :: recall :: 0.5789473675900277
+Accuracy of 0-1 loss for fold 3 ::: 0.8666666666666667
+CF for fold 3 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 4 ::: 0.8666666666666667
+CF for fold 4 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 5 ::: 0.8666666666666667
+CF for fold 5 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 6 ::: 1.0
+CF for fold 6 ::: acc:: 0.9999999955555555 :: precision:: 0.9999999933333334 :: recall :: 0.9999999933333334
+Accuracy of 0-1 loss for fold 7 ::: 0.8666666666666667
+CF for fold 7 ::: acc:: 0.8666666634074074 :: precision:: 0.8666666617777777 :: recall :: 0.7647058792387543
+Accuracy of 0-1 loss for fold 8 ::: 0.8
+CF for fold 8 ::: acc:: 0.7999999973333334 :: precision:: 0.799999996 :: recall :: 0.6666666648148148
+Accuracy of 0-1 loss for fold 9 ::: 0.9333333333333333
+CF for fold 9 ::: acc:: 0.9333333294814815 :: precision:: 0.9333333275555556 :: recall :: 0.8749999953125001
+
+Current Dataset ::: Glass dataset
+Accuracy of 0-1 loss for fold 0 ::: 0.6363636363636364
+CF for fold 0 ::: acc:: 0.6363636358677686 :: precision:: 0.6666666650793651 :: recall :: 0.2978723412856496
+Accuracy of 0-1 loss for fold 1 ::: 0.7727272727272727
+CF for fold 1 ::: acc:: 0.7727272714876033 :: precision:: 0.7727272702479339 :: recall :: 0.5312499998046875
+Accuracy of 0-1 loss for fold 2 ::: 0.5909090909090908
+CF for fold 2 ::: acc:: 0.5909090905785124 :: precision:: 0.5909090900826446 :: recall :: 0.2653061234069138
+Accuracy of 0-1 loss for fold 3 ::: 0.7727272727272727
+CF for fold 3 ::: acc:: 0.7727272717355372 :: precision:: 0.8095238065759637 :: recall :: 0.4473684213296399
+Accuracy of 0-1 loss for fold 4 ::: 0.5238095238095238
+CF for fold 4 ::: acc:: 0.523809523733938 :: precision:: 0.5238095235827664 :: recall :: 0.18032786990056437
+Accuracy of 0-1 loss for fold 5 ::: 0.5714285714285714
+CF for fold 5 ::: acc:: 0.571428571201814 :: precision:: 0.5714285707482993 :: recall :: 0.21052631680517084
+Accuracy of 0-1 loss for fold 6 ::: 0.6190476190476191
+CF for fold 6 ::: acc:: 0.6190476185941043 :: precision:: 0.6190476179138322 :: recall :: 0.2888888898271605
+Accuracy of 0-1 loss for fold 7 ::: 0.7619047619047619
+CF for fold 7 ::: acc:: 0.7619047610733183 :: precision:: 0.7619047594104308 :: recall :: 0.39024390297441997
+Accuracy of 0-1 loss for fold 8 ::: 0.6190476190476191
+CF for fold 8 ::: acc:: 0.6190476186696902 :: precision:: 0.6190476179138322 :: recall :: 0.24528301982912068
+Accuracy of 0-1 loss for fold 9 ::: 0.7619047619047619
+CF for fold 9 ::: acc:: 0.7619047609070295 :: precision:: 0.7619047594104308 :: recall :: 0.4444444447530864
+
+Current Dataset ::: Glass dataset with noise
+Accuracy of 0-1 loss for fold 0 ::: 0.5
+CF for fold 0 ::: acc:: 0.5 :: precision:: 0.5 :: recall :: 0.2000000010909091
+Accuracy of 0-1 loss for fold 1 ::: 0.5
+CF for fold 1 ::: acc:: 0.5 :: precision:: 0.5 :: recall :: 0.2000000010909091
+Accuracy of 0-1 loss for fold 2 ::: 0.5454545454545454
+CF for fold 2 ::: acc:: 0.5454545453168044 :: precision:: 0.5454545450413223 :: recall :: 0.1935483880853278
+Accuracy of 0-1 loss for fold 3 ::: 0.5
+CF for fold 3 ::: acc:: 0.5 :: precision:: 0.5 :: recall :: 0.1666666676767677
+Accuracy of 0-1 loss for fold 4 ::: 0.5238095238095238
+CF for fold 4 ::: acc:: 0.5238095236961451 :: precision:: 0.5238095235827664 :: recall :: 0.2682926840571089
+Accuracy of 0-1 loss for fold 5 ::: 0.6666666666666667
+CF for fold 5 ::: acc:: 0.6666666660317461 :: precision:: 0.6666666650793651 :: recall :: 0.3333333341269841
+Accuracy of 0-1 loss for fold 6 ::: 0.4285714285714286
+CF for fold 6 ::: acc:: 0.42857142879818594 :: precision:: 0.42857142925170066 :: recall :: 0.1304347836798992
+Accuracy of 0-1 loss for fold 7 ::: 0.7142857142857143
+CF for fold 7 ::: acc:: 0.7142857132653061 :: precision:: 0.7499999975 :: recall :: 0.44117647093425605
+Accuracy of 0-1 loss for fold 8 ::: 0.6666666666666667
+CF for fold 8 ::: acc:: 0.6666666661375662 :: precision:: 0.6666666650793651 :: recall :: 0.2857142865889213
+Accuracy of 0-1 loss for fold 9 ::: 0.6190476190476191
+CF for fold 9 ::: acc:: 0.6190476185941043 :: precision:: 0.6499999985 :: recall :: 0.2826086965973535
+
+For Vote dataset : avg accuracy for 0-1 is :: 0.8990486257928119
+For  Vote dataset : CFs average accuracy :: 0.8990486239569526 :: precision :: 0.8990486239569524 :: recall :: 0.8990486239569524
+
+For Vote dataset with noise : avg accuracy for 0-1 is :: 0.8943974630021142
+For  Vote dataset with noise : CFs average accuracy :: 0.8943974611878881 :: precision :: 0.8943974611878881 :: recall :: 0.8943974611878881
+
+For Soybean dataset : avg accuracy for 0-1 is :: 0.805
+For  Soybean dataset : CFs average accuracy :: 0.8049999910833335 :: precision :: 0.8049999870500006 :: recall :: 0.6797618969552157
+
+For Soybean dataset with noise : avg accuracy for 0-1 is :: 0.7899999999999999
+For  Soybean dataset with noise : CFs average accuracy :: 0.7899999920000002 :: precision :: 0.8299999844666675 :: recall :: 0.6438095175647017
+
+For Breast Cancer dataset : avg accuracy for 0-1 is :: 0.9714078674948242
+For  Breast Cancer dataset : CFs average accuracy :: 0.9714078661459343 :: precision :: 0.9714078661459343 :: recall :: 0.9714078661459343
+
+For Breast Cancer dataset with noise : avg accuracy for 0-1 is :: 0.9685507246376813
+For  Breast Cancer dataset with noise : CFs average accuracy :: 0.9685507232969546 :: precision :: 0.9685507232969546 :: recall :: 0.9685507232969546
+
+For Iris dataset : avg accuracy for 0-1 is :: 0.9266666666666667
+For  Iris dataset : CFs average accuracy :: 0.9266666627111111 :: precision :: 0.926666660977778 :: recall :: 0.8785784265431541
+
+For Iris dataset with noise : avg accuracy for 0-1 is :: 0.8733333333333333
+For  Iris dataset with noise : CFs average accuracy :: 0.8733333300148148 :: precision :: 0.8733333283555555 :: recall :: 0.7819143412556947
+
+For Glass dataset : avg accuracy for 0-1 is :: 0.662987012987013
+For  Glass dataset : CFs average accuracy :: 0.6629870123849315 :: precision :: 0.6696969680965499 :: recall :: 0.3301511329916414
+
+For Glass dataset with noise : avg accuracy for 0-1 is :: 0.5664502164502165
+For  Glass dataset with noise : CFs average accuracy :: 0.5664502161839857 :: precision :: 0.573116882403452 :: recall :: 0.2501775313928437
