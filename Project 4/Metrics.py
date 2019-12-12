@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct  7 15:15:47 2019
-
-@author: asadc
 """
 '''
 Metrics class contains the metric methods used by the main class and each algorithm

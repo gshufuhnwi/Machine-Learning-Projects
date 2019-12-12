@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 26 14:54:22 2019
-
-@author: asadc
 """
 '''
 Stacked Auto-encoder (SAE) class takes a network architecure 

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  6 15:09:33 2019
-
-@author: asadc
-"""
-
 import operator
 import pandas as pd
 import Metrics

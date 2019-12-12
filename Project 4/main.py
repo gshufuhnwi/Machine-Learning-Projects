@@ -2,7 +2,6 @@
 """
 Created on Mon Nov  4 12:08:38 2019
 
-@author: asadc
 """
 '''
 Main class calls the MLP, GA, DE, and PSO algorithms for each dataset

@@ -2,8 +2,6 @@
 """
 Created on Sat Nov 16 13:26:41 2019
 
-@author: cnoble
-
 Inidividual contains the chromosome structure for the individual object, and 
     the fitness of the individual based on the training set.
 intializeGenes() intializes weights randomly based on network structure.

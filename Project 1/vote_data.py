@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  5 20:53:30 2019
-
-@author: asadc
-"""
-
 import pandas as pd
 import numpy as np
 from random import shuffle

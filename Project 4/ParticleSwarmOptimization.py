@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Nov 11 13:40:40 2019
-
-@author: dkelly
 """
 import Particle
 import numpy as np

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  5 20:53:30 2019
-
-@author: asadc
-"""
-
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from classifier import NaiveBayes

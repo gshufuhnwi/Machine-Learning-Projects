@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: cnoble
 
 During initialization, layers are intialized, bias and weights are randomly intialized,
     and learning rate is set.

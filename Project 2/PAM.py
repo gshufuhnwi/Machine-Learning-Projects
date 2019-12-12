@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
+
 """
-@author: dkelly
 
 1: medoids are randomly selected from dataSet in initMedoids()
 2: eachPoint in the data set is assigned to a medoid in the generateClusters() using the euclideanDistance()

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 30 15:17:06 2019
-
-@author: asadc
 """
 '''
 Backprop class take a network model and datapoint to calculate

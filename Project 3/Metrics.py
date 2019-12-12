@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct  7 15:15:47 2019
-
-@author: asadc
 """
 '''
 Metrics class holds the general methods used by

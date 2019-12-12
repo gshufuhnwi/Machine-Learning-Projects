@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Nov  4 12:08:38 2019
-
-@author: asadc
 """
 '''
 Class main. Calls the MLP and RBF for different dataset with

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Dec  7 13:45:56 2019
-
-@author: asadc
 """
 ''' Class DE is similar to Genetic Algorithm except 
 for different mutation and crossover function and 

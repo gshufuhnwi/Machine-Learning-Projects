@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-@author: dkelly
 
+"""
 1: centroids are randomly selected from dataSet in initCentroids()
 2: point is selected from dataSet and assigned to  cluster in assignNewPointToCluster()
     a: euclideanDistance() is called to assign to closest existing cluster

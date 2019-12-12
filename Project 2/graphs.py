@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 11 12:00:05 2019
-
-@author: asadc
-"""
-
 import matplotlib.pylab as plt
 
 

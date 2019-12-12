@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct  1 21:21:36 2019
-
-@author: asadc
 """
 
 '''LoadDataset class load all the data from the csv files

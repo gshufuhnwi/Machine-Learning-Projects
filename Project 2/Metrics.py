@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  7 15:15:47 2019
-
-@author: asadc
-"""
 import numpy as np
 
 class Metrics:
